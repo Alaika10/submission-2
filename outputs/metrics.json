@@ -1,0 +1,22 @@
+{
+  "model_penuh": {
+    "model": "Logistic Regression",
+    "threshold": 0.22999999999999995,
+    "accuracy": 0.7785310734463277,
+    "precision_dropout": 0.6018518518518519,
+    "recall_dropout": 0.9154929577464789,
+    "f1_dropout": 0.7262569832402235,
+    "f2_dropout": 0.8290816326530612,
+    "roc_auc": 0.9314757094982542,
+    "pr_auc": 0.9014031331700981
+  },
+  "model_early_warning": {
+    "model": "Logistic Regression",
+    "threshold": 0.2899999999999999,
+    "precision_dropout": 0.6052631578947368,
+    "recall_dropout": 0.8908450704225352,
+    "f1_dropout": 0.7207977207977208,
+    "roc_auc": 0.9127569075015818,
+    "pr_auc": 0.8737476568089263
+  }
+}
